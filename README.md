@@ -1,7 +1,8 @@
 Medication Reminder App (Coming Soon)
+
 A mobile application designed to help users track medications, set reminders, and manage daily schedules. This repository will contain the full project once the academic marking period is complete.
 
-Planned Features
+Planned Features:
 - Add, edit, and delete medications
 - Custom reminder schedules
 - Daily and weekly overview
@@ -10,7 +11,7 @@ Planned Features
 - Simple and accessible UI
 
 
-Planned Tech Stack
+Planned Tech Stack:
 - Kotlin
 - Android Studio
 - Jetpack Compose
@@ -18,12 +19,12 @@ Planned Tech Stack
 - Android Notifications AP
 
 
-Project Status
+Project Status:
 This project is currently in development as part of a larger personal portfolio.
 The full source code will be published after the academic marking period is complete.
 
 
-Goals
+Goals:
 - Build a clean, modern Android application
 - Demonstrate Kotlin, Compose, and Room skills
 - Showcase mobile architecture and UI design
